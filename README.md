@@ -2,7 +2,15 @@
 
 **Breast Cancer Risk Prediction** is a web-based ML application that predicts whether a patient has a **low or high risk of breast cancer** based on diagnostic measurements. Built using a trained machine learning model and rendered with a beautiful, responsive Flask-based frontend.
 
-![Screenshot](Screenshot%202025-07-27%20150009.png)
+## 🔍 Screenshots
+
+<table>
+  <tr>
+    <td><img src="Screenshot 2025-07-27 231531.png" width="100%"/></td>
+    <td><img src="Screenshot%202025-07-27%20150009.png" width="100%"/></td>
+  </tr>
+</table>
+
 
 ---
 
